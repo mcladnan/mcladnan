@@ -19,8 +19,4 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mcladnan&show_icons=true&locale=en&layout=compact" alt="mcladnan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mcladnan&show_icons=true&locale=en" alt="mcladnan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mcladnan&" alt="mcladnan" /></p>
